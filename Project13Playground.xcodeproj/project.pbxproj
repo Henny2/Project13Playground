@@ -11,6 +11,7 @@
 		402425BA2B3BA16100BC9706 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402425B92B3BA16100BC9706 /* ContentView.swift */; };
 		402425BC2B3BA16300BC9706 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 402425BB2B3BA16300BC9706 /* Assets.xcassets */; };
 		402425BF2B3BA16300BC9706 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 402425BE2B3BA16300BC9706 /* Preview Assets.xcassets */; };
+		402425C62B3BD37F00BC9706 /* ContentUnavailableTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402425C52B3BD37F00BC9706 /* ContentUnavailableTestView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		402425B92B3BA16100BC9706 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		402425BB2B3BA16300BC9706 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		402425BE2B3BA16300BC9706 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		402425C52B3BD37F00BC9706 /* ContentUnavailableTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentUnavailableTestView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				402425B72B3BA16100BC9706 /* Project13PlaygroundApp.swift */,
 				402425B92B3BA16100BC9706 /* ContentView.swift */,
+				402425C52B3BD37F00BC9706 /* ContentUnavailableTestView.swift */,
 				402425BB2B3BA16300BC9706 /* Assets.xcassets */,
 				402425BD2B3BA16300BC9706 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				402425BA2B3BA16100BC9706 /* ContentView.swift in Sources */,
 				402425B82B3BA16100BC9706 /* Project13PlaygroundApp.swift in Sources */,
+				402425C62B3BD37F00BC9706 /* ContentUnavailableTestView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
