@@ -13,6 +13,7 @@
 		402425BF2B3BA16300BC9706 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 402425BE2B3BA16300BC9706 /* Preview Assets.xcassets */; };
 		402425C62B3BD37F00BC9706 /* ContentUnavailableTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402425C52B3BD37F00BC9706 /* ContentUnavailableTestView.swift */; };
 		402425C82B3D2CB800BC9706 /* PhotoPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402425C72B3D2CB800BC9706 /* PhotoPickerView.swift */; };
+		402425CA2B3D310800BC9706 /* ShareLinkViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402425C92B3D310800BC9706 /* ShareLinkViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		402425BE2B3BA16300BC9706 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		402425C52B3BD37F00BC9706 /* ContentUnavailableTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentUnavailableTestView.swift; sourceTree = "<group>"; };
 		402425C72B3D2CB800BC9706 /* PhotoPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoPickerView.swift; sourceTree = "<group>"; };
+		402425C92B3D310800BC9706 /* ShareLinkViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareLinkViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +41,7 @@
 		402425AB2B3BA16100BC9706 = {
 			isa = PBXGroup;
 			children = (
+				402425C92B3D310800BC9706 /* ShareLinkViews.swift */,
 				402425B62B3BA16100BC9706 /* Project13Playground */,
 				402425B52B3BA16100BC9706 /* Products */,
 			);
@@ -146,6 +149,7 @@
 				402425BA2B3BA16100BC9706 /* ContentView.swift in Sources */,
 				402425B82B3BA16100BC9706 /* Project13PlaygroundApp.swift in Sources */,
 				402425C62B3BD37F00BC9706 /* ContentUnavailableTestView.swift in Sources */,
+				402425CA2B3D310800BC9706 /* ShareLinkViews.swift in Sources */,
 				402425C82B3D2CB800BC9706 /* PhotoPickerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
